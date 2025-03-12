@@ -69,3 +69,4 @@ if __name__ == '__main__':
         extension_login()
     except Exception as e:
         logging.error(f"Failed to execute login script: {e}")
+MUSIC_U = "你的MUSIC_U"
